@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://acetechworld.com/</loc>
+  <lastmod>2021-01-21T17:49:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://acetechworld.com/index.html</loc>
+  <lastmod>2021-01-21T17:49:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://acetechworld.com/projects/alpha_ml.html</loc>
+  <lastmod>2021-01-20T18:15:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://acetechworld.com/projects/twitch_alerts.html</loc>
+  <lastmod>2021-01-20T18:41:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://acetechworld.com/projects/billgen.html</loc>
+  <lastmod>2021-01-20T20:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://acetechworld.com/projects/odapp.html</loc>
+  <lastmod>2021-01-20T23:10:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://acetechworld.com/projects/visualization.html</loc>
+  <lastmod>2021-01-20T23:47:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
