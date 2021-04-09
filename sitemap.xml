@@ -9,57 +9,57 @@
 
 <url>
   <loc>https://acetechworld.com/</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://acetechworld.com/index.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://acetechworld.com/projects/titanic_kaggle.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/alpha_ml.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/twitch_alerts.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/billgen.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/odapp.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/visualization.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/rickroll.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://acetechworld.com/projects/cifar_classification.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://acetechworld.com/projects/overfitting.html</loc>
-  <lastmod>2021-02-23T17:09:48+00:00</lastmod>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/cifar_classification.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/alpha_ml.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/twitch_alerts.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/billgen.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/odapp.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/visualization.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://acetechworld.com/projects/rickroll.html</loc>
+  <lastmod>2021-04-09T00:07:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
