@@ -1132,3 +1132,7 @@ table, th, td {
 .next-row {
   margin-top: 50px;
 }
+
+.project-imgs {
+  height: 217px;
+}
